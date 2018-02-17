@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="Theme.Splash" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/splashscreenxml</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+
+  <style name="FullScreenMessage">
+    <item name="android:layout_height">match_parent</item>
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:layout_margin">5dp</item>
+  </style>
+
+  <style name="NormalFullScreenMessage" parent="FullScreenMessage">
+    <item name="android:textSize">35pt</item>
+  </style>
+
+  <style name="SmallFullScreenMessage" parent="FullScreenMessage">
+    <item name="android:textSize">25pt</item>
+  </style>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stippers Check In</string>
+    <string name="CheckInResultView_busy_checking_in">Bezig met\ninchecken…</string>
+    <string name="global_something_went_wrong">Er is iets\nmisgegaan…</string>
+    <string name="CheckIn_already_checked_in">%s, je bent de voorbije 12 uur al ingecheckt.</string>
+    <string name="CheckIn_card_number_not_connected_to_user">Dit kaartnummer is niet gekoppeld aan een gebruiker.</string>
+    <string name="CheckIn_check_in_succeeded">%s, je bent ingecheckt!</string>
+    <string name="CheckIn_check_in_succeeded_could_not_check_weekly_winner">%s, het inchecken is gelukt maar we konden niet nakijken of je de winnaar van de week bent.</string>
+    <string name="CheckIn_check_in_succeeded_weekly_winner">Proficiat %s! Je bent ingecheckt én je bent de winnaar van de week!</string>
+    <string name="CheckIn_check_in_could_not_notify">Het is echter niet gelukt om iemand van het bestuur te verwittigen, dus roep er even iemand bij.</string>
+    <string name="Settings_flash_on">Flash on</string>
+    <string name="Settings_flash_off">Flash off</string>
+    <string name="Settings_api_key">API key</string>
+    <string name="starting_NoCameraPermission">De app heeft geen toegang tot de camera en wordt afgesloten.</string>
+    <string name="arrow_right">▶</string>
+    <string name="arrow_left">◀</string>
+    <string name="arrow_up">▲</string>
+    <string name="arrow_down">▼</string>
+    <string name="Settings_which_side_points_to_user">Welke kant van het scherm is naar de gebruiker gericht?</string>
+</resources>
